@@ -1,0 +1,35 @@
+* {
+    margin:0; padding:0;
+  }
+  html{
+    height:100%;
+  }
+  body {
+    height: 100%;
+  }
+  header {
+    width: 30%;
+    text-align: left;
+    background-color: rgb(83, 245, 237);
+  }
+  header .headline{
+    font-size: 32px;
+  }
+  .nav-list {
+    text-align: left;
+  }
+  .nav-list-item {
+    list-style: inside;
+    display: block;
+  }
+  
+  footer {
+    position: relative;
+    width: 30%;
+    height: 100%;
+    float: left;
+    background-color: rgb(83, 245, 237);
+  }
+  .footer-text {
+    color: #fff;
+  }
